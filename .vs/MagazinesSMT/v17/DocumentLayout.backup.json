@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\magazinessmt\\forms\\registroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|solutionrelative:magazinessmt\\forms\\registroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|c:\\users\\juanh25\\source\\repos\\runcard\\magazine\\magazinessmt\\magazinessmt\\forms\\registroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|solutionrelative:magazinessmt\\forms\\registroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\magazinessmt\\database\\mysqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|solutionrelative:magazinessmt\\database\\mysqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\magazinessmt\\forms\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|solutionrelative:magazinessmt\\forms\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\magazinessmt\\modelos\\registroserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|solutionrelative:magazinessmt\\modelos\\registroserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\magazinessmt\\forms\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FCA421-3F23-4676-AB0D-7D3F40B639F8}|MagazinesSMT\\MagazinesSMT.csproj|solutionrelative:magazinessmt\\forms\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroAutomatico.cs",
+              "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\RegistroAutomatico.cs",
+              "RelativeDocumentMoniker": "MagazinesSMT\\Forms\\RegistroAutomatico.cs",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\RegistroAutomatico.cs",
+              "RelativeToolTip": "MagazinesSMT\\Forms\\RegistroAutomatico.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAYwA4BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:44:00.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroAutomatico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\RegistroAutomatico.cs",
+              "RelativeDocumentMoniker": "MagazinesSMT\\Forms\\RegistroAutomatico.cs",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\RegistroAutomatico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MagazinesSMT\\Forms\\RegistroAutomatico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:17:27.33Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registrar.cs",
+              "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\Registrar.cs",
+              "RelativeDocumentMoniker": "MagazinesSMT\\Forms\\Registrar.cs",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\Registrar.cs",
+              "RelativeToolTip": "MagazinesSMT\\Forms\\Registrar.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAiwB8BAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:22:29.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MysqlDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Database\\MysqlDatabase.cs",
+              "RelativeDocumentMoniker": "MagazinesSMT\\Database\\MysqlDatabase.cs",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Database\\MysqlDatabase.cs",
+              "RelativeToolTip": "MagazinesSMT\\Database\\MysqlDatabase.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAEwCMBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:38:01.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroSerial.cs",
+              "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Modelos\\RegistroSerial.cs",
+              "RelativeDocumentMoniker": "MagazinesSMT\\Modelos\\RegistroSerial.cs",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Modelos\\RegistroSerial.cs",
+              "RelativeToolTip": "MagazinesSMT\\Modelos\\RegistroSerial.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:32:43.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\Registrar.cs",
+              "RelativeDocumentMoniker": "MagazinesSMT\\Forms\\Registrar.cs",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Magazine\\MagazinesSMT\\MagazinesSMT\\Forms\\Registrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MagazinesSMT\\Forms\\Registrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:38:20.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
